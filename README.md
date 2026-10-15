@@ -333,8 +333,6 @@ createdb bank_db
 psql -d bank_db -f database/schema.sql
 ```
 
-> Adjust the database name and script path to match your repository layout.
-
 ### 3. Install dependencies
 
 ```bash
