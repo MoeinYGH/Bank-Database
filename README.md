@@ -353,22 +353,6 @@ python main.py
 
 ---
 
-## 📁 Project Structure
-
-> Update this section to match your actual repository layout.
-
-```
-.
-├── database/
-│   └── schema.sql        # Tables, constraints, views, procedure, triggers
-├── src/                  # Python application (CustomTkinter GUI + DB layer)
-├── docs/                 # Project documentation and presentation
-├── LICENSE
-└── README.md
-```
-
----
-
 ## 🎁 Bonus Features
 
 Beyond the base requirements, the project implements:
@@ -380,10 +364,9 @@ Beyond the base requirements, the project implements:
 
 ---
 
-## 👥 Authors
+## 👥 Author
 
 - **Moein Yeganeh**
-- **Nikta Habibpour**
 
 Shiraz University, 2026
 
