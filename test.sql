@@ -1,0 +1,1 @@
+ALTER TABLE Customer ADD COLUMN SystemUserID INT UNIQUE REFERENCES SystemUser(UserID);
