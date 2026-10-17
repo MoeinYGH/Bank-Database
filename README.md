@@ -4,7 +4,7 @@ A secure, PostgreSQL-driven banking management system with a Python desktop GUI.
 
 > Database Management course project, Shiraz University (Bachelor's level)
 
-**Authors:** Moein Yeganeh · Nikta Habibpour
+**Authors:** Moein Yeganeh
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -27,7 +27,7 @@ A secure, PostgreSQL-driven banking management system with a Python desktop GUI.
 
 ---
 
-## ✨ Features
+## Features
 
 | Module | Capabilities |
 |---|---|
@@ -40,7 +40,7 @@ A secure, PostgreSQL-driven banking management system with a Python desktop GUI.
 
 ---
 
-## 🧱 Tech Stack & Architecture
+## Tech Stack & Architecture
 
 The project uses a **two-tier architecture**:
 
@@ -51,7 +51,7 @@ All core database logic is written directly in **SQL** (`CREATE TABLE`, `ALTER T
 
 ---
 
-## 🗄️ Database Design
+## Database Design
 
 ### ER / Relational Schema
 
@@ -182,7 +182,7 @@ erDiagram
 
 ---
 
-## 🔐 Security
+## Security
 
 Security is a core part of the design and the non-negotiable constraints are enforced at multiple layers.
 
@@ -211,7 +211,7 @@ Passwords are never stored in plaintext. At registration the app generates a **s
 
 ---
 
-## 📜 Key SQL Examples
+## Key SQL Examples
 
 ### 1. View: customer account summary (JOIN + VIEW)
 
@@ -311,7 +311,7 @@ EXECUTE FUNCTION log_account_changes();
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -351,7 +351,7 @@ python main.py
 
 ---
 
-## 🎁 Bonus Features
+## Bonus Features
 
 Beyond the base requirements, the project implements:
 
@@ -362,7 +362,7 @@ Beyond the base requirements, the project implements:
 
 ---
 
-## 👥 Author
+## Author
 
 - **Moein Yeganeh**
 
@@ -370,6 +370,6 @@ Shiraz University, 2026
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
