@@ -1,4 +1,4 @@
-# 🏦 Bank Management System
+# Bank Management System
 
 A secure, PostgreSQL-driven banking management system with a Python desktop GUI. It handles customers, accounts, loans, installments, and fund transfers while enforcing strict **3NF normalization**, **SQL injection protection**, and **database-level integrity rules**.
 
